@@ -7,20 +7,24 @@ body {
 }
 
 nav {
-  background: linear-gradient(to right, #1FA2FF, #12D8FA, #A6FFCB);
+  background: linear-gradient(to right, #1fa2ff, #12d8fa, #a6ffcb);
 }
 
 .btn-info {
-  background: #1FA2FF;
+  background: #1fa2ff;
 }
 
 .btn-primary {
-  background: #12D8FA;
+  background: #12d8fa;
 }
 
 .btn-success {
-  background: #A6FFCB;
+  background: #a6ffcb;
   color: black;
+}
+
+.form {
+  margin-top: 100px;
 }
 
 a {
