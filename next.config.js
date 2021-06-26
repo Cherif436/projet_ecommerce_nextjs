@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "https://nextjsecommerce.herokuapp.com",
+        "BASE_URL": "https://materielinformatique.herokuapp.com",
         "MONGODB_URL": "mongodb://localhost/nextjsecommerce",
         "ACCESS_TOKEN_SECRET": "629682136111687",
         "REFRESH_TOKEN_SECRET": "bsbo8zsdToV6SBOSAI2NaDodUbo",
