@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "https://materielinformatique.herokuapp.com",
+        "BASE_URL": "https://ecom-nextjs.herokuapp.com",
         "MONGODB_URL": "",
         "ACCESS_TOKEN_SECRET": "",
         "REFRESH_TOKEN_SECRET": "",
